@@ -9,7 +9,7 @@ namespace MyEventHandler
 {
     internal class AsyncCaller
     {
-        private readonly EventHandler eventHandler;ы
+        private readonly EventHandler eventHandler;
 
         public AsyncCaller(EventHandler eventHandler)
         {
